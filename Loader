@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "https://raw.githubusercontent.com/Nameny2552/Kaitan/main/bloxfruit",
+    [994732206]  = "https://raw.githubusercontent.com/Nameny2552/Kaitan/main/%E0%B8%B4bloxfruit",
    
 }
 local checkgame = gamelist[game.gameId]
